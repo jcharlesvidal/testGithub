@@ -5,4 +5,7 @@ public class Stuff {
 	public String getHello() {
 		return "Hello";
 	}
+	public String getBonjour() {
+		return "Bonjour";
+	}
 }
